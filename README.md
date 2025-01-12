@@ -31,8 +31,7 @@
 ## Установка проекта
 
 ```
-git clone https://github.com/Jacky3737/The-Laine-Pub-in-London
-/bar_project.git
+git clone https://github.com/Jacky3737/The-Laine-Pub-in-London.git
 ```
 
 ## Использование
